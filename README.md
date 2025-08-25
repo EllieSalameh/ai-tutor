@@ -1,2 +1,3 @@
-# ai-tutor
-An AI-powered learning assistant that generates summaries, flashcards, and quizzes from lecture notes and textbooks, with personalized recommendations based on student progress.
+# Personalized Learning Assistant 
+
+An AI-powered study assistant that transforms lecture notes and textbooks into summaries, flashcards, and quizzes. Tracks student progress and provides personalized recommendations for more effective learning.
